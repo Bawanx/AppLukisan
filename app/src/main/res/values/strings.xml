@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Lukisan</string>
+    <string name="heroes_name">Nama Lukisan</string>
+    <string name="menu_about">About</string>
+    <string name="origin" translatable="false">Nama Pelukis</string>
+    <string name="price" translatable="false">Harga</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_activity_label">Detail Lukisan</string>
+    <string name="main_activity_label">Lukisan Indonesia</string>
+    <string name="share_button">Bagikan Artikel Ini</string>
+    <string name="my_name">Ra Gentar Amar Ma`ruf</string>
+    <string name="my_email">ra.gentar23@gmail.com</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string name="lukisan_name" />
+    <string-array name="data_name">
+        <item>A View of Mount Megamendung</item>
+        <item>Pada Masa Kemerdekaan</item>
+        <item>Bali Life</item>
+        <item>Badai Pasti Berlalu</item>
+        <item>Balinese Procession</item>
+        <item>Berburu Rusa</item>
+        <item>Nyi Roro Kidul</item>
+        <item>Penangkapan Pangeran Diponegoro</item>
+        <item>Pandawa Dadu</item>
+        <item>Pasukan Kita di Bawah Pimpinan</item>
+        <item>Perburuan Banteng</item>
+        <item>The Ruins and The Piano</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Raden Saleh yang juga mendapatkan predikat lukisan termahal berikutnya yakni bertajuk “A View of Mount Megamendung”. Lukisan yang menggambarkan potret pemandangan alam di area Megamendung, Puncak, Bogor  merupakan seri pertama lukisan Megamendung karya Saleh, dan merupakan tonggak sejarah bagi pelukis asal Semarang ini.</item>
+        <item>Lukisan ini dibeli oleh kolektor seni asal Inggris dengan harga Rp 36 miliar di Drout Paris, Prancis. Delphine Kahl, selaku perwakilan rumah lelang Jack-Phillipe Ruellan menyatakan A View of Mount Megamendung ini memiliki keistimewaan yang tidak dimiliki lukisan lain dengan seri sama.</item>
+        <item>Lukisan karya Hendra Gunawan yang laku terjual dengan harga termahal yakni bertajuk “Ali Sadikin Pada Masa Kemerdekaan”. Melansir Sothebys, lukisan ini berdiri sebagai karya yang menampilkan citra yang secara eksplisit mengungkapkan efek dari revolusioner dari sosok gubernur terhadap seniman di negara Indonesia. Selama masa pemerintahannya, Ali Sadikin–sang gubernur legendaris itu memberi fasilitas dan dukungan bagi seniman pendatang baru guna mempromosikan karya mereka yang pada akhirnya, menjaga kekayaan budaya Indonesia. Hal tersebutlah yang dilakukan oleh Hendra Gunawan. Ketika Hendra masih berada di dalam penjara, Ali Sadikin secara berkala mengirimkan alat lukis kepadanya dengan tujuan agar Hendra bisa terus berkarya. Hendra yang tersentuh dengan tindakan Ali Sadikin pun akhirnya menghadiahkan sebuah lukisan, sebagai ucapan terima kasih. “Ali Sadikin Pada Masa Kemerdekaan” terjual di Balai Lelang Sotheby’s Hong Kong pada 5 Oktober 2014 seharga HK$33,24 juta atau setara Rp52,19 miliar (dengan kurs rupiah tanggal tersebut). </item>
+        <item>Tema-tema Bali secara mengesankan digambarkan dalam lukisan halus dan unik karya Lee Man Fong ini. Seniman Indonesia yang lahir di Tiongkok ini seakan bercerita melalui lukisan “Bali Life”. Terbentang narasi tentang keseharian di pedesaan Bali: anak-anak bermain, perempuan menyiapkan sesaji, laki-laki bersama ayam jagonya, dan petani sedang bekerja. “Bali Life” terjual di Balai Lelang Christie’s Hong Kong pada 23 November 2013 seharga HK$35,96 juta atau setara Rp54,30 miliar (dengan kurs rupiah tanggal tersebut). </item>
+        <item>Lukisan karya Affandi yang berjudul “Badai Pasti Berlalu” menceritakan tentang perjuangan manusia yang mengarungi samudera luas untuk mencapai suatu tempat tujuan. Layaknya sifat alamiah manusia yang pantang menyerah untuk mendapatkan apa yang ingin dia miliki, lukisan ini sangat menggambarkan nuansa perjuangan manusia. Namun, sebagaimana manusia yang hanya bisa mengusahakan tetapi hanya Tuhan lah yang menentukan takdir. Di tengah perjuangan manusia untuk mencapai tujuan mereka, hadirlah ombak badai yang kecil hingga besar yang menggoyahkan semangat mereka. Namun, sejatinya jika manusia ikhlas dengan apapun yang akan terjadi semuanya akan membawa kita ke tujuan terbaik kita. </item>
+        <item>Lukisan yang berjudul “Balinese Procession” ini merupakan lukisan karya Lee Man Fong, seorang pelukis asal Cina yang lama menetap di Indonesia. Ia juga merupakan pelukis yang sering melukis tentang binatang sekaligus pelukis Istana Kepresidenan di era Ir. Soekarno. Lukisan-lukisan karya Lee Man Fong banyak dijadikan sebagai lukisan koleksi Istana Negara. Lukisan “Balinese Procession” mampu menyihir mata dunia dan terjual seharga Rp 27,28 miliar di balai lelang Sotheby’s Hong Kong pada April 2017. Lukisan tersebut merupakan pengalamannya saat ia bermukim di Bali dalam waktu yang cukup lama. Selain itu Lee Man Fong juga melukis karya yang berjudul “Fifteen Goldfish”, sebuah lukisan yang fenomenal di kalangan pecinta seni lukis dan sudah terjual sebesar Rp 16 miliar dalam lelang Christie’s di Hongkong. </item>
+        <item>Lukisan karya Raden Saleh setelah lukisan Penangkapan Diponegoro ini juga mampu menyihir mata dunia. Lukisan yang diberi judul “Perburuan Rusa” ini atau “The Deer Hunt” merupakan salah satu karya Raden Saleh yang menggambarkan perjuangan untuk bertahan hidup. Lukisan asli seniman Indonesia ini terkenal di mancanegara dan terjual seharga 1,8 miliar dolar di Singapura pada tahun 1996. Raden Saleh memang dikenal sebagai pelukis dengan karyanya yang penuh perjuangan. Selain “The Deer Hunt” terdapat juga karyanya yaitu “The Lion Hunt”, “ The Bull Hunt” dan “Fighting The Lion”. </item>
+        <item>Siapa yang sudah tidak asing lagi dengan lukisan Nyai Roro Kidul yang sangat fenomenal. Karya Basoeki Abdullah ini menjadi salah satu lukisan yang memiliki nilai legenda Nusantara. Sosok Nyi Roro Kidul diyakini oleh kebanyakan masyarakat sebagai penguasa Pantai Selatan Pulau Jawa. Konon katanya, Basoeki Abdullah sempat bertemu dengan Nyi Roro Kidul saat beliau naik sepeda dan bersembahyang di Pantai Parangtritis. Ia mendengar adanya suara di tepi pantai dan akhirnya mengakui bahwa Nyi Roro Kidul benar adanya dan dapat ditemui di Pelabuhan Ratu atau sepanjang Laut Selatan. Alasan tersebutlah yang membuat Basoeki Abdullan melukis sosok Nyi Roro Kidul. Selama proses melukisnya, Basoeki sempat terkendala karena ia tidak pernah melihat jelas wajah Nyi Roro Kidul sampai akhirnya ia menggunakan model sebagai representasinya. Namun, semua model yang akan berperan sebagai Nyi Roro Kidul menderita sakit parah sampai-sampai sebagian dari mereka tidak tertolong. Awalnya Basoeki mengira itu semua hanya kebetulan tetapi setelah terjadi lebih dari tiga kali akhirnya ia waspada akan hal tersebut. Sehingga Basoeki hanya menggunakan imajinasinya untuk dituangkan ke dalam lukisannya. </item>
+        <item>Pangeran Diponegoro merupakan pahlawan nasional yang lahir pada 11 November 1785 dan merupakan putra dari pasangan suami istri Sri Sultan Hamengku Buwono III dan R. A. Mangkarawati. Pangeran Diponegoro memimpin Perang Jawa selama 5 tahun melawan Belanda dan perang tersebut berlangsung dari tahun 1825 hingga 1830 serta menelan banyak korban yaitu 8.000 korban Belanda dan 7.000 pribumi. Tetapi pada tanggal 28 Maret 1830 saat Pangeran Diponegoro diundang oleh Letnan Hendrik Merkus de Kock ke wisma keresidenan di Magelang, ia ditangkap saat menandatanggani perjanjian perdamaian antara pihak Belanda dan rakyat Indonesia. Untuk mengenang jasa perjuangan Pangeran Diponegoro dan pasukannya, Raden Saleh Syarif Bustaman atau biasa dipanggil Raden Saleh terinspirasi untuk membuat lukisan Penangkapan Pangeran Diponegoro. Ia merupakan seorang pelukis senior masa Hindia Belanda. Raden Saleh juga merupakan orang dibalik lukisan Stasiun Pos Jawa dan Perburuan Rusa. Kemampuan melukisnya yang sangat luar biasa membuat karyanya tersimpan di Smithsonian Art Museum di Amerika Serikat dengan judul karya “Forest and Native House”. Lukisan Penangkapan Diponegoro juga mampu membawa nama Indonesia sampai ke Eropa yaitu Rijk Museum di Belanda dan Louvre Museum di Prancis. Lukisan yang diberi judul “Penangkapan Diponegoro” merupakan cuplikan kejadian nyata saat Pangeran Diponegoro ditangkap di Magelang oleh Belanda. Pada lukisan tersebut Pangeran Diponegoro berdiri di depan de Kock dalam pose menantang, pada tingkat yang sama dan saling berhadapan sebagai manifestasi dari fakta bahwa orang Jawa sejajar dengan orang Belanda. Dan lukisan ini juga menggambarkan nasionalisme rakyat Indonesia dan perjuangan Pangeran Diponegoro hingga akhir. </item>
+        <item>“Pandawa Dadu” adalah mahakarya Hendra Gunawan dan jadi salah satu karya yang paling banyak dipelajari. Dikabarkan Hendra Gunawan mendalami seni lukis ketika masa penahanan di Kebonwaru, Bandung karena keterlibatannya dalam LEKRA. Selama 13 tahun masa penahanan itulah ia menggali lukisan dan sastra Hindu-Indonesia. Melansir situs lelang Sothebys, Pandawa Dadu menceritakan babak penting dalam epos Mahabharata, yakni tentang Yudhistira yang kalah habis-habisan dalam judi dadu melawan keluarga Kurawa, akhirnya menyerahkan istrinya, Drupadi, di meja judi. Lukisan ini menjadi bukti bahwa Hendra bukan hanya seniman lukis, tapi juga penyair, aktivis politik, serta warga negara yang patriotik dan gigih melawan ketidakadilan dan kolonialisme sepanjang hidupnya. “Pandawa Dadu” karya Hendra Gunawan ini terjual di Balai Lelang Sotheby’s Hong Kong pada 4 April 2015 seharga HK$26,48 juta atau setara Rp44,22 miliar (dengan kurs rupiah tanggal tersebut). </item>
+        <item>Selain lukisan “Penangkapan Pangeran Diponegoro” karya Raden Saleh, ada lagi nih karya seniman tersohor Indonesia yang menjadi saksi perjuangan pangeran Diponegoro dalam peristiwa perang Jawa pada tahun 1825-1830. Lukisan itu adalah lukisan karya Sindoedarsono Sudjojono berjudul “Pasukan Kita di Bawah Pimpinan Pangeran Diponegoro”, dan lukisan ini pun masuk ke daftar lukisan termahal. Lukisan ini pernah terjual di Balai Lelang Sotheby’s, Hong Kong pada bulan April 2014 dengan harga mencapai Rp100,9 miliar, lho Bela. Sebuah harga yang luar biasa karena harga ini bahkan tiga kali lipat dari harga perkiraan awal. Lukisan ini pernah terjual di Balai Lelang Sotheby’s, Hong Kong pada bulan April 2014 dengan harga mencapai Rp100,9 miliar, lho Bela. Sebuah harga yang luar biasa karena harga ini bahkan tiga kali lipat dari harga perkiraan awal. Berbeda dengan lukisan Raden Saleh yang mengisyaratkan perlawanan, lukisan ini juga menampakan perlawanan, tetapi sebagai bentuk perayaan kemenangan pangeran Diponegoro dan pasukan militernya tatkala melawan pasukan Belanda dalam Perang Jawa. Lihatlah betapa gagahnya Pangeran Diponegoro di atas kuda. </item>
+        <item>Kembali lukisan Raden Saleh mendapatkan predikat sebagai lukisan termahal. Kali ini lukisan tersebut berjudul “Perburuan Banteng”, "Wild Bull Hunt" atau "La Chasse au Taureau Sauvage". Tapi tahukah kamu kalau ternyata  lukisan ini dulunya hampir dianggap nggak bernilai karena berada di gudang bawah tanah? Pemilik sebelumnya tidak mengetahui kalau lukisan “Perburuan Banteng” karya Raden Saleh ini ternyata sangat berharga, sampai akhirnya ia menghubungi seorang kolektor barang seni bernama Jack-Philipp Ruellan. Bagaimana tidak ketika lukisan ini dilelang, harga yang ditawarkan mencapai Rp 150 miliar, Bela. Pelelangan lukisan itu dilakukan di Prancis pada tahun 2018. Rekor penjualan lukisan ini bahkan sempat menghebohkan para kolektor seni dunia. Karya yang terlukis di atas kanvas berukuran 110 x 180 sentimeter ini dinilai unik karena memperlihatkan konflik yang terjadi di antara manusia dan hewan liar. Dengan sentuhan tangan Raden Saleh lukisan ini menjadi sangat dramatis, dan melibatkan self-portrait, ketika ia melukis dirinya sendiri di atas kuda cokelat. </item>
+        <item>Lukisan dapat dijadikan sebagai wadah penyampaian sudut pandang sosial maupun politik oleh penciptanya. Seperti Djoko Pekik dan I Nyoman Masriadi, pelukis Sindudarsono Sudjojono juga melakukan hal yang sama. Melansir Asian Parents, dalam lukisan yang bertajuk “The Ruins and The Piano”, Sudjojono seakan keluar dari pakemnya. Di dalam lukisan terdapat sebuah piano yang masih utuh tergeletak di tengah reruntuhan bencana, bagaikan sebuah barang baru yang tiba-tiba diletakan di lingkungan yang asing.  Lukisan karya Sindoedarsono Sudjojono berhasil terjual di Balai Lelang  Christie’s Hong Kong pada bulan Mei 2017 dengan harga Rp15,74 miliar. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/a_view_mount_megamendung</item>
+        <item>@drawable/masa_kemerdekaan</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/badai_pasti_berlalu</item>
+        <item>@drawable/balinese_procession</item>
+        <item>@drawable/berburu_rusa</item>
+        <item>@drawable/nyi_roro_kidul</item>
+        <item>@drawable/penangkapan_pangeran_diponegoro</item>
+        <item>@drawable/dadu</item>
+        <item>@drawable/pasukan_pangeran_diponegoro</item>
+        <item>@drawable/buruan_banteng</item>
+        <item>@drawable/the_ruins_the_piano</item>
+    </integer-array>
+
+    <string-array name="lukisan_price">
+        <item>Harga : Rp. 36 Miliar</item>
+        <item>Harga : Rp. 52,9 Miliar</item>
+        <item>Harga : Rp. 54,30 Miliar</item>
+        <item>Harga : Rp. 400.000.000</item>
+        <item>Harga : Rp. 34 Miliar</item>
+        <item>Harga : p. 150 Miliar</item>
+        <item>Harga : Rp. 1 Miliar</item>
+        <item>Harga : Rp. 100 Miliar</item>
+        <item>Harga : Rp. 44,22 Miliar</item>
+        <item>Harga : Rp. 100,9 Miliar</item>
+        <item>Harga : Rp. 150 Miliar</item>
+        <item>Harga : Rp. 15,74 Miliar</item>
+    </string-array>
+
+    <string-array name="lukisan_origin">
+        <item>Nama Pelukis : Raden Saleh</item>
+        <item>Nama Pelukis : Hendra Gunawan</item>
+        <item>Nama Pelukis : ALee Man Fong</item>
+        <item>Nama Pelukis : Affandi</item>
+        <item>Nama Pelukis : Lee Man Fong</item>
+        <item>Nama Pelukis : Raden Saleh</item>
+        <item>Nama Pelukis : Basoeki Abdullah</item>
+        <item>Nama Pelukis : Raden Saleh</item>
+        <item>Nama Pelukis : Hendra Gunawan</item>
+        <item>Nama Pelukis : Sindoedarsono Sujojono</item>
+        <item>Nama Pelukis : Raden Saleh</item>
+        <item>Nama Pelukis : Sindoedarsono Sudjojono</item>
+    </string-array>
+
+
+</resources>
