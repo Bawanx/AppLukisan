@@ -11,11 +11,13 @@ class AboutActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_about)
 
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+
         val waButton: CircleImageView = findViewById(R.id.iv_wa)
         val teleButton: CircleImageView = findViewById(R.id.iv_telegram)
 
         waButton.setOnClickListener {
-            val toNumber = "whatsapp:+6295173117372"
+            val toNumber = "whatsapp:+6285173117372"
             val message = "Halo! Boleh kenalan gak?"
 
             val uri = Uri.parse("https://api.whatsapp.com/send?phone=$toNumber&text=$message")

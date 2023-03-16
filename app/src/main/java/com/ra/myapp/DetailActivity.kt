@@ -10,10 +10,11 @@ import android.widget.TextView
 @Suppress("DEPRECATION")
 class DetailActivity : AppCompatActivity() {
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
+
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
         @Suppress("DEPRECATION")
         val dataLukisan = intent.getParcelableExtra<Lukisan>("key_lukisan")

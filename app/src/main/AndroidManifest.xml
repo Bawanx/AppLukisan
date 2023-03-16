@@ -25,12 +25,14 @@
             android:name=".AboutActivity"
             android:exported="false"
             android:label="@string/menu_about"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".DetailActivity"
             android:exported="false"
             android:label="@string/detail_activity_label"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="false"
